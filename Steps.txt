@@ -1,0 +1,13 @@
+1. Create a new virtual environment
+
+conda create -p venv python==3.10 y
+
+2. Select the virtual environment
+
+conda activate venv/
+
+3. Initialize the git repository
+
+git init
+
+4. Create Readme.md file
